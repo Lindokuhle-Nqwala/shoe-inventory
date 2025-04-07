@@ -1,6 +1,6 @@
 # Shoe Inventory Management System 👟📦
 
-This is a command-line based Shoe Inventory Management System written in Python. It allows users to manage shoe data for different countries by reading, capturing, restocking, and analysing inventory.
+This is a command-line-based Shoe Inventory Management System written in Python. It allows users to manage shoe data for different countries by reading, capturing, restocking, and analysing inventory.
 
 ## 📂 Table of Contents
 
@@ -40,17 +40,17 @@ When you run the program, you’ll be presented with a menu like this:
 ![Program Screenshot]https://github.com/Lindokuhle-Nqwala/shoe-inventory/blob/main/Screenshot_Invetory.jpg
 
    The screenshot above should show the Program Menu/Options as below:
-        Shoe Inventory Management
-        1. Read shoes data from file
-        2. Capture new shoe data
-        3. View all shoes
-        4. Restock low-stock shoes
-        5. Search for a shoe by code
-        6. Calculate value per item
-        7. View shoe with the highest quantity
-        8. Exit
+        - Shoe Inventory Management
+         - 1. Read shoe data from the file
+         - 2. Capture new shoe data
+         - 3. View all shoes
+         - 4. Restock low-stock shoes
+         - 5. Search for a shoe by code
+         - 6. Calculate value per item
+         - 7. View shoes with the highest quantity
+         - 8. Exit
 
-Enter the number of the option you'd like to perform and follow the prompts.
+You can just enter the number of options you'd like to perform and follow the prompts.
 
 ## 🙌 Credits
 
